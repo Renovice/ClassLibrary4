@@ -1,7 +1,7 @@
 # VoidFiendBeam
 
-Edits the vfx properties and actual attack range of the Voidfiendcorrupted beam
-freely editable in the risk of options mod options menu. 
+Edits the vfx properties, and actual attack range of the Void fiend's corrupted beam.
+Freely editable in the risk of options mod options menu. 
 
 
 feel free to use this mod however you like. 
